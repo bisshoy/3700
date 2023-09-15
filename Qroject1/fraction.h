@@ -32,7 +32,7 @@ class Fraction {
 		// Accessors, simplifiers, GCD finder 
 		const int32_t getNum() { return num; }
 		const int32_t getDen() { return den; }
-		int32_t gcd(int32_t, int32_t); // Is my use of recursion okay here? 
+		static int32_t gcd(int32_t, int32_t); 
 
 		// Arithemetic Operators
 		Fraction operator+(const Fraction&);
