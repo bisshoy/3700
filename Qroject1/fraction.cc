@@ -16,6 +16,7 @@
 #include "point.h"
 
 // Constructor 
+
 // 
 // Fraction(int32_t n, int32_t d)
 //   constructor for fraction with two parameters 
