@@ -1,5 +1,5 @@
 # 3700
-Project2 is similarly the first version of Project2
+Project2 is the first version of Project2
 
 Qroject2 is a properly-split version with header comments and whatnot.
 The header file has been updated to reflect this. 
